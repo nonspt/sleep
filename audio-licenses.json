@@ -1,0 +1,350 @@
+[
+  {
+    "id": "white",
+    "title": "轻柔白噪声",
+    "category": "noise",
+    "description": "均匀、细密的沙沙声",
+    "author": "theundecided",
+    "originalTitle": "White noise by theundecided",
+    "source": "https://freesound.org/people/theundecided/sounds/165058/",
+    "downloadUrl": "https://cdn.freesound.org/previews/165/165058_947433-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
+    "sourceDuration": 300.04,
+    "duration": 300.04,
+    "bytes": 4801140,
+    "sha256": "a4d2431763e048516ac80afb1f4406d17393cbab3b0ec6f1b8d95e014e6738d3",
+    "file": "audio/white-a4d2431763.mp3",
+    "downloadDate": "2026-10-03",
+    "modifications": [
+      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
+    ],
+    "quality": {
+      "peakAmplitude": 0.136127,
+      "rmsAmplitude": 0.041526,
+      "hasNaN": false,
+      "decodedSamples": 13230000,
+      "loopEndpointDelta": 0.074786
+    }
+  },
+  {
+    "id": "pink",
+    "title": "柔和粉红噪声",
+    "category": "noise",
+    "description": "更柔和的中低频底音",
+    "author": "Sadiquecat",
+    "originalTitle": "Pure Stereo 48khz pinknoise by Sadiquecat",
+    "source": "https://freesound.org/people/Sadiquecat/sounds/852330/",
+    "downloadUrl": "https://cdn.freesound.org/previews/852/852330_5287430-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
+    "sourceDuration": 300.02,
+    "duration": 300.04,
+    "bytes": 4801140,
+    "sha256": "2a804b775e0d2f4292169cff8bbc311af46ea4b412e9352fec048ebe70461e2c",
+    "file": "audio/pink-2a804b775e.mp3",
+    "downloadDate": "2026-10-03",
+    "modifications": [
+      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
+    ],
+    "quality": {
+      "peakAmplitude": 0.239845,
+      "rmsAmplitude": 0.044721,
+      "hasNaN": false,
+      "decodedSamples": 13230000,
+      "loopEndpointDelta": 0.002802
+    }
+  },
+  {
+    "id": "brown",
+    "title": "低沉棕噪声",
+    "category": "noise",
+    "description": "低沉、平稳的背景声",
+    "author": "theundecided",
+    "originalTitle": "Brown Noise by theundecided",
+    "source": "https://freesound.org/people/theundecided/sounds/165056/",
+    "downloadUrl": "https://cdn.freesound.org/previews/165/165056_947433-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
+    "sourceDuration": 300.04,
+    "duration": 300.04,
+    "bytes": 4801140,
+    "sha256": "2e4525c60493c3f0155e5ee90d3cf1ce0279023e3296dbbbae921648aaae37e0",
+    "file": "audio/brown-2e4525c604.mp3",
+    "downloadDate": "2026-10-03",
+    "modifications": [
+      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
+    ],
+    "quality": {
+      "peakAmplitude": 0.334333,
+      "rmsAmplitude": 0.078271,
+      "hasNaN": false,
+      "decodedSamples": 13230000,
+      "loopEndpointDelta": 0.07016
+    }
+  },
+  {
+    "id": "rain",
+    "title": "窗外细雨",
+    "category": "nature",
+    "description": "连续而平稳的雨声",
+    "author": "Legnalegna55",
+    "originalTitle": "RAIN SOUND by Legnalegna55",
+    "source": "https://freesound.org/people/Legnalegna55/sounds/545250/",
+    "downloadUrl": "https://cdn.freesound.org/previews/545/545250_10485775-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
+    "sourceDuration": 150.57,
+    "duration": 150.52,
+    "bytes": 2408741,
+    "sha256": "5a2980f68dfce3cbd74ccfc7c47fca2a9f07b997e9bd7b2e19fcdb1142541dbc",
+    "file": "audio/rain-5a2980f68d.mp3",
+    "downloadDate": "2026-10-03",
+    "modifications": [
+      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
+    ],
+    "quality": {
+      "peakAmplitude": 0.743831,
+      "rmsAmplitude": 0.038782,
+      "hasNaN": false,
+      "decodedSamples": 6636548,
+      "loopEndpointDelta": 0.003313
+    }
+  },
+  {
+    "id": "sea",
+    "title": "轻柔海浪",
+    "category": "nature",
+    "description": "缓缓起伏的海水声",
+    "author": "craiggroshek",
+    "originalTitle": "Seawash (calm)  by craiggroshek",
+    "source": "https://freesound.org/people/craiggroshek/sounds/176617/",
+    "downloadUrl": "https://cdn.freesound.org/previews/176/176617_3278970-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
+    "sourceDuration": 244.06,
+    "duration": 244.04,
+    "bytes": 3905035,
+    "sha256": "a2cd159885b54c726d515d699f0d6ff3d7715905e124ffd84f19069e28c69034",
+    "file": "audio/sea-a2cd159885.mp3",
+    "downloadDate": "2026-10-03",
+    "modifications": [
+      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
+    ],
+    "quality": {
+      "peakAmplitude": 0.52591,
+      "rmsAmplitude": 0.049857,
+      "hasNaN": false,
+      "decodedSamples": 10759812,
+      "loopEndpointDelta": 0.0
+    }
+  },
+  {
+    "id": "stream",
+    "title": "林间溪流",
+    "category": "nature",
+    "description": "细小流水的自然纹理",
+    "author": "deadrobotmusic",
+    "originalTitle": "Watery Texture Stream by deadrobotmusic",
+    "source": "https://freesound.org/people/deadrobotmusic/sounds/687089/",
+    "downloadUrl": "https://cdn.freesound.org/previews/687/687089_11532701-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
+    "sourceDuration": 29.02,
+    "duration": 29.02,
+    "bytes": 464813,
+    "sha256": "cd287d946e15b4f69d82d7ce9459a69ca11bb334cb6427ac0010fb08f3a29c6f",
+    "file": "audio/stream-cd287d946e.mp3",
+    "downloadDate": "2026-10-03",
+    "modifications": [
+      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
+    ],
+    "quality": {
+      "peakAmplitude": 0.874964,
+      "rmsAmplitude": 0.039231,
+      "hasNaN": false,
+      "decodedSamples": 1278500,
+      "loopEndpointDelta": 4.7e-05
+    }
+  },
+  {
+    "id": "upright",
+    "title": "暖夜钢琴",
+    "category": "piano",
+    "description": "温暖的立式钢琴旋律",
+    "author": "blankie.rest",
+    "originalTitle": "Sleepy Upright Piano Seamless Loop by blankie.rest",
+    "source": "https://freesound.org/people/blankie.rest/sounds/859607/",
+    "downloadUrl": "https://cdn.freesound.org/previews/859/859607_15820073-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
+    "sourceDuration": 115.78,
+    "duration": 115.77000000000001,
+    "bytes": 1852856,
+    "sha256": "4b6c7940f264b66479e81fdfec56d8e864d2ec7a847da031144c3303c1170289",
+    "file": "audio/upright-4b6c7940f2.mp3",
+    "downloadDate": "2026-10-03",
+    "modifications": [
+      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
+    ],
+    "quality": {
+      "peakAmplitude": 0.485229,
+      "rmsAmplitude": 0.054059,
+      "hasNaN": false,
+      "decodedSamples": 5103737,
+      "loopEndpointDelta": 0.002166
+    }
+  },
+  {
+    "id": "relax",
+    "title": "柔光钢琴",
+    "category": "piano",
+    "description": "明亮柔和的钢琴短旋律",
+    "author": "Ncone",
+    "originalTitle": "Soft Piano Loop by Ncone",
+    "source": "https://freesound.org/people/Ncone/sounds/710546/",
+    "downloadUrl": "https://cdn.freesound.org/previews/710/710546_14716160-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
+    "sourceDuration": 19.36,
+    "duration": 19.3,
+    "bytes": 309332,
+    "sha256": "4a42986f16e222e6bb2cf510ad6b1ba10857aa0a3c34d6f20647df05f821b08f",
+    "file": "audio/relax-4a42986f16.mp3",
+    "downloadDate": "2026-10-03",
+    "modifications": [
+      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
+    ],
+    "quality": {
+      "peakAmplitude": 0.370634,
+      "rmsAmplitude": 0.061775,
+      "hasNaN": false,
+      "decodedSamples": 849940,
+      "loopEndpointDelta": 0.027816
+    }
+  },
+  {
+    "id": "bach",
+    "title": "巴赫八音盒",
+    "category": "box",
+    "description": "清脆轻柔的古典旋律",
+    "author": "Flying_Deer_Fx",
+    "originalTitle": "Music Box - J. S. Bach - Menuet by Flying_Deer_Fx",
+    "source": "https://freesound.org/people/Flying_Deer_Fx/sounds/369404/",
+    "downloadUrl": "https://cdn.freesound.org/previews/369/369404_6812364-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
+    "sourceDuration": 51.25,
+    "duration": 51.2,
+    "bytes": 819661,
+    "sha256": "11ce4ff35acaa3450a36418601564a08ba10117bd13efb6bfe45ccb1daa3aef1",
+    "file": "audio/bach-11ce4ff35a.mp3",
+    "downloadDate": "2026-10-03",
+    "modifications": [
+      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
+    ],
+    "quality": {
+      "peakAmplitude": 0.383588,
+      "rmsAmplitude": 0.048967,
+      "hasNaN": false,
+      "decodedSamples": 2256248,
+      "loopEndpointDelta": 0.002983
+    }
+  },
+  {
+    "id": "waltz",
+    "title": "小小圆舞曲",
+    "category": "box",
+    "description": "八音盒演奏的圆舞曲",
+    "author": "Flying_Deer_Fx",
+    "originalTitle": "Music Box - J. Brahms - Opus 39 - Waltz no 3 by Flying_Deer_Fx",
+    "source": "https://freesound.org/people/Flying_Deer_Fx/sounds/369405/",
+    "downloadUrl": "https://cdn.freesound.org/previews/369/369405_6812364-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
+    "sourceDuration": 59.17,
+    "duration": 59.14,
+    "bytes": 946720,
+    "sha256": "66329b488fa1c2fc20cc1818956dd9dfcfdb748f5f0d5c8f90df55af53fc7071",
+    "file": "audio/waltz-66329b488f.mp3",
+    "downloadDate": "2026-10-03",
+    "modifications": [
+      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
+    ],
+    "quality": {
+      "peakAmplitude": 0.308474,
+      "rmsAmplitude": 0.04857,
+      "hasNaN": false,
+      "decodedSamples": 2606445,
+      "loopEndpointDelta": 0.003932
+    }
+  },
+  {
+    "id": "lullaby",
+    "title": "晚安摇篮曲",
+    "category": "lullaby",
+    "description": "柔和的无歌词旋律",
+    "author": "HZee",
+    "originalTitle": "lullaby.wav by HZee",
+    "source": "https://freesound.org/people/HZee/sounds/583395/",
+    "downloadUrl": "https://cdn.freesound.org/previews/583/583395_13139945-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
+    "sourceDuration": 81.71000000000001,
+    "duration": 81.71000000000001,
+    "bytes": 1307837,
+    "sha256": "6e83cbaa0fbcc264233b0ef24873ffd5a5eb301f8f5d17efa6c96fc0f49f4f95",
+    "file": "audio/lullaby-6e83cbaa0f.mp3",
+    "downloadDate": "2026-10-03",
+    "modifications": [
+      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
+    ],
+    "quality": {
+      "peakAmplitude": 0.406852,
+      "rmsAmplitude": 0.041546,
+      "hasNaN": false,
+      "decodedSamples": 3601408,
+      "loopEndpointDelta": 0.000608
+    }
+  },
+  {
+    "id": "brahms",
+    "title": "勃拉姆斯摇篮曲",
+    "category": "lullaby",
+    "description": "老式八音盒的轻柔录音",
+    "author": "Rickbrewin",
+    "originalTitle": "Music Box.wav by Rickbrewin",
+    "source": "https://freesound.org/people/Rickbrewin/sounds/158206/",
+    "downloadUrl": "https://cdn.freesound.org/previews/158/158206_94105-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
+    "sourceDuration": 33.88,
+    "duration": 33.85,
+    "bytes": 542136,
+    "sha256": "da207280642d1a9e484d6e0660a142567988ab49318089087fe9f1e997ca53d1",
+    "file": "audio/brahms-da20728064.mp3",
+    "downloadDate": "2026-10-03",
+    "modifications": [
+      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
+    ],
+    "quality": {
+      "peakAmplitude": 0.352959,
+      "rmsAmplitude": 0.036499,
+      "hasNaN": false,
+      "decodedSamples": 1491168,
+      "loopEndpointDelta": 0.003588
+    }
+  }
+]

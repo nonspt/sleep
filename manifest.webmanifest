@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "晚安，小宝",
+  "short_name": "晚安小宝",
+  "description": "一屏选择全部哄睡音乐，自动准备后可离线播放。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111622",
+  "theme_color": "#111622",
+  "icons": [
+    { "src": "icons/app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
