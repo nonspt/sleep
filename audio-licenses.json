@@ -232,6 +232,36 @@
     }
   },
   {
+    "author": "cheesepuff",
+    "originalTitle": "a soothing song.mp3 by cheesepuff",
+    "source": "https://freesound.org/people/cheesepuff/sounds/110215/",
+    "downloadUrl": "https://cdn.freesound.org/previews/110/110215_682033-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceDuration": 34.01,
+    "downloadDate": "2026-10-03",
+    "acquisition": "Freesound 页面公开高质量 MP3；已核对 CC0 许可及完整来源时长。",
+    "id": "serene",
+    "title": "安然钢琴",
+    "category": "piano",
+    "description": "作者原创的柔和键盘钢琴旋律",
+    "file": "audio/serene-32654b3998.mp3",
+    "sha256": "32654b39984e8685014588d59dd2b7ab58c890572d32a2163dc4573636e5ac67",
+    "bytes": 544643,
+    "duration": 34.01,
+    "quality": {
+      "peakAmplitude": 0.350954,
+      "rmsAmplitude": 0.049434,
+      "hasNaN": false,
+      "decodedSamples": 1497647,
+      "loopEndpointDelta": 2.6e-05
+    },
+    "modifications": [
+      "44.1 kHz 单声道 MP3，128 kbps；约 -24 LUFS，真峰值目标不超过 -3 dBTP。",
+      "保留公开录音的完整时长，没有扩展曲目长度。"
+    ]
+  },
+  {
     "id": "bach",
     "title": "巴赫八音盒",
     "category": "box",
@@ -288,6 +318,36 @@
       "decodedSamples": 2606445,
       "loopEndpointDelta": 0.003932
     }
+  },
+  {
+    "author": "3bagbrew",
+    "originalTitle": "twinkle.mp3 by 3bagbrew",
+    "source": "https://freesound.org/people/3bagbrew/sounds/95614/",
+    "downloadUrl": "https://cdn.freesound.org/previews/95/95614_571436-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceDuration": 16.48,
+    "downloadDate": "2026-10-03",
+    "acquisition": "Freesound 页面公开高质量 MP3；已核对 CC0 许可及完整来源时长。",
+    "id": "twinkle",
+    "title": "小星星八音盒",
+    "category": "box",
+    "description": "儿童玩具八音盒演奏的小星星",
+    "file": "audio/twinkle-6048a7ed05.mp3",
+    "sha256": "6048a7ed053a3a5ea56705b5387f9c3149e181f949de2239be62c1fbed8b27ec",
+    "bytes": 264193,
+    "duration": 16.48,
+    "quality": {
+      "peakAmplitude": 0.680647,
+      "rmsAmplitude": 0.043101,
+      "hasNaN": false,
+      "decodedSamples": 724655,
+      "loopEndpointDelta": 0.000426
+    },
+    "modifications": [
+      "44.1 kHz 单声道 MP3，128 kbps；约 -24 LUFS，真峰值目标不超过 -3 dBTP。",
+      "保留公开录音的完整时长，没有扩展曲目长度。"
+    ]
   },
   {
     "id": "lullaby",
@@ -348,90 +408,163 @@
     }
   },
   {
+    "author": "AlucardsBride",
+    "originalTitle": "Mockingbird.mp3 by AlucardsBride",
+    "source": "https://freesound.org/people/AlucardsBride/sounds/179928/",
+    "downloadUrl": "https://cdn.freesound.org/previews/179/179928_3223507-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceDuration": 21.29,
+    "downloadDate": "2026-10-03",
+    "acquisition": "Freesound 页面公开高质量 MP3；已核对 CC0 许可及完整来源时长。",
+    "id": "humming",
+    "title": "轻声哼唱",
+    "category": "lullaby",
+    "description": "女声哼唱传统摇篮曲，保留完整短录音",
+    "file": "audio/humming-7e08f52dcc.mp3",
+    "sha256": "7e08f52dcca640abeee9efe68e3aae918369cb5cd66940f0e5d9c0cf9e487b5e",
+    "bytes": 341097,
+    "duration": 21.29,
+    "quality": {
+      "peakAmplitude": 0.190788,
+      "rmsAmplitude": 0.054647,
+      "hasNaN": false,
+      "decodedSamples": 937472,
+      "loopEndpointDelta": 0.002515
+    },
+    "modifications": [
+      "44.1 kHz 单声道 MP3，128 kbps；约 -24 LUFS，真峰值目标不超过 -3 dBTP。",
+      "保留公开录音的完整时长，没有扩展曲目长度。"
+    ]
+  },
+  {
+    "author": "akoecreative / wjoojoo / deadrobotmusic",
+    "originalTitle": "Woman shushing soothing baby shh shh shh by akoecreative",
+    "source": "https://freesound.org/people/akoecreative/sounds/790619/",
+    "downloadUrl": "https://cdn.freesound.org/previews/790/790619_16437131-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceDuration": 27.98,
+    "downloadDate": "2026-10-03",
+    "acquisition": "Freesound 页面公开高质量 MP3；已核对 CC0 许可及完整来源时长。",
     "id": "shush",
-    "title": "轻柔嘘嘘声",
+    "title": "嘘声伴胎心",
     "category": "comfort",
-    "description": "轻声重复的嘘声，短片段循环播放",
-    "author": "sotanobi",
-    "originalTitle": "hush 1.mp3 by sotanobi",
-    "source": "https://freesound.org/people/sotanobi/sounds/700250/",
-    "downloadUrl": "https://cdn.freesound.org/previews/700/700250_9356705-hq.mp3",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
-    "sourceDuration": 4.05,
-    "duration": 4.0,
-    "bytes": 64408,
-    "sha256": "67de1c3253adcb7fb7af34d154a3eeec03e4efcaf9a0200979da68312ef20188",
-    "file": "audio/shush-67de1c3253.mp3",
-    "downloadDate": "2026-10-03",
-    "modifications": [
-      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
-    ],
+    "description": "真实哄宝宝嘘声、胎心监护与柔和水流背景混音，10 分钟",
+    "file": "audio/shush-08a14c2f3c.mp3",
+    "sha256": "08a14c2f3ca78e48ab154c9950d042ce360386244767ebd074bd4e2e52dd0fb6",
+    "bytes": 9600983,
+    "duration": 600.03,
     "quality": {
-      "peakAmplitude": 0.671711,
-      "rmsAmplitude": 0.032599,
+      "peakAmplitude": 0.676281,
+      "rmsAmplitude": 0.040978,
       "hasNaN": false,
-      "decodedSamples": 174947,
-      "loopEndpointDelta": 0.008413
-    }
+      "decodedSamples": 26460000,
+      "loopEndpointDelta": 2e-06
+    },
+    "modifications": [
+      "44.1 kHz 单声道 MP3，128 kbps；约 -24 LUFS，真峰值目标不超过 -3 dBTP。",
+      "使用新的哄宝宝嘘声录音（约 27.9 秒），混入多普勒胎心实录（约 16.2 秒）与溪流水声。",
+      "三层录音保持原音高与速度，滤波、接缝交叉淡化并循环混合为 10 分钟，首尾 1.5 秒淡入淡出。",
+      "水流层用于模拟柔和液体流动的背景感，不是羊水实录；10 分钟是制作后的混音时长。"
+    ],
+    "components": [
+      {
+        "author": "akoecreative",
+        "originalTitle": "Woman shushing soothing baby shh shh shh by akoecreative",
+        "source": "https://freesound.org/people/akoecreative/sounds/790619/",
+        "downloadUrl": "https://cdn.freesound.org/previews/790/790619_16437131-hq.mp3",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceDuration": 27.98,
+        "downloadDate": "2026-10-03",
+        "acquisition": "Freesound 页面公开高质量 MP3；已核对 CC0 许可及完整来源时长。",
+        "role": "哄宝宝的嘘声实录"
+      },
+      {
+        "author": "wjoojoo",
+        "originalTitle": "fetal_doppler_stethoscope.wav by wjoojoo",
+        "source": "https://freesound.org/people/wjoojoo/sounds/204339/",
+        "downloadUrl": "https://cdn.freesound.org/previews/204/204339_93137-hq.mp3",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceDuration": 16.2,
+        "downloadDate": "2026-10-03",
+        "acquisition": "Freesound 页面公开高质量 MP3；已核对 CC0 许可及完整来源时长。",
+        "role": "多普勒胎心监护实录"
+      },
+      {
+        "author": "deadrobotmusic",
+        "originalTitle": "Watery Texture Stream by deadrobotmusic",
+        "source": "https://freesound.org/people/deadrobotmusic/sounds/687089/",
+        "downloadUrl": "https://cdn.freesound.org/previews/687/687089_11532701-hq.mp3",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceDuration": 29.02,
+        "role": "溪流水声，经低通滤波营造柔和水流背景；不是羊水实录"
+      }
+    ]
   },
   {
+    "author": "under_the_hood",
+    "originalTitle": "Real heartbeat sound by under_the_hood",
+    "source": "https://freesound.org/people/under_the_hood/sounds/455089/",
+    "downloadUrl": "https://cdn.freesound.org/previews/455/455089_9416057-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceDuration": 239.5,
+    "downloadDate": "2026-10-03",
+    "acquisition": "Freesound 页面公开高质量 MP3；已核对 CC0 许可及完整来源时长。",
     "id": "heartbeat",
-    "title": "平稳心跳",
+    "title": "真实心跳",
     "category": "comfort",
-    "description": "每分钟 60 次的合成心跳节律",
-    "author": "loudernoises",
-    "originalTitle": "heartbeat-60bpm.wav by loudernoises",
-    "source": "https://freesound.org/people/loudernoises/sounds/332821/",
-    "downloadUrl": "https://cdn.freesound.org/previews/332/332821_5859881-hq.mp3",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
-    "sourceDuration": 30.04,
-    "duration": 30.04,
-    "bytes": 481114,
-    "sha256": "5623e8e3dd7969a3dd89bb85c22a09d4424dbd884d557cdb1ec5795458522434",
-    "file": "audio/heartbeat-5623e8e3dd.mp3",
-    "downloadDate": "2026-10-03",
-    "modifications": [
-      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
-    ],
+    "description": "静息状态下的真实成人心跳录音，约 4 分钟",
+    "file": "audio/heartbeat-0b1f9363c0.mp3",
+    "sha256": "0b1f9363c09f1d6b6460d3f5a5130184271d56debcaa3a1c61c5fde9d386c7e9",
+    "bytes": 3832310,
+    "duration": 239.49,
     "quality": {
-      "peakAmplitude": 0.672655,
-      "rmsAmplitude": 0.09377,
+      "peakAmplitude": 0.627999,
+      "rmsAmplitude": 0.086496,
       "hasNaN": false,
-      "decodedSamples": 1323000,
-      "loopEndpointDelta": 6e-06
-    }
+      "decodedSamples": 10559968,
+      "loopEndpointDelta": 0.001751
+    },
+    "modifications": [
+      "44.1 kHz 单声道 MP3，128 kbps；约 -24 LUFS，真峰值目标不超过 -3 dBTP。",
+      "来源作者说明为 31 岁男性静息心跳实录；保留完整 3 分 59 秒，不使用合成心跳。",
+      "心跳低频录音在响度处理后额外线性衰减约 3.6 dB，保留自然节律与动态，控制 MP3 编码后的峰值。"
+    ]
   },
   {
-    "id": "breathing",
-    "title": "缓慢呼吸",
-    "category": "comfort",
-    "description": "平缓的呼吸录音，含轻微环境底音",
-    "author": "helenavelikaja",
-    "originalTitle": "Slow Breathing Woman.wav by helenavelikaja",
-    "source": "https://freesound.org/people/helenavelikaja/sounds/485402/",
-    "downloadUrl": "https://cdn.freesound.org/previews/485/485402_1354123-hq.mp3",
+    "author": "josephvm",
+    "originalTitle": "baby girl breathing by josephvm",
+    "source": "https://freesound.org/people/josephvm/sounds/442656/",
+    "downloadUrl": "https://cdn.freesound.org/previews/442/442656_6940680-hq.mp3",
     "license": "CC0 1.0",
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
-    "sourceDuration": 83.93,
-    "duration": 83.93,
-    "bytes": 1343363,
-    "sha256": "acad8ef2b92f3cb727c3604296e1118a561caec606f154f01d488391472e500d",
-    "file": "audio/breathing-acad8ef2b9.mp3",
+    "sourceDuration": 17.66,
     "downloadDate": "2026-10-03",
-    "modifications": [
-      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
-    ],
+    "acquisition": "Freesound 页面公开高质量 MP3；已核对 CC0 许可及完整来源时长。",
+    "id": "breathing",
+    "title": "睡眠呼吸",
+    "category": "comfort",
+    "description": "三周龄婴儿睡眠呼吸实录，循环延展为 5 分钟",
+    "file": "audio/breathing-539b289423.mp3",
+    "sha256": "539b289423ad42ae814e95055027f927975eaeab28d5df90797e0bee08709459",
+    "bytes": 4801140,
+    "duration": 300.04,
     "quality": {
-      "peakAmplitude": 0.671457,
-      "rmsAmplitude": 0.07803,
+      "peakAmplitude": 0.674216,
+      "rmsAmplitude": 0.047576,
       "hasNaN": false,
-      "decodedSamples": 3699351,
-      "loopEndpointDelta": 2.1e-05
-    }
+      "decodedSamples": 13230000,
+      "loopEndpointDelta": 1.2e-05
+    },
+    "modifications": [
+      "44.1 kHz 单声道 MP3，128 kbps；约 -24 LUFS，真峰值目标不超过 -3 dBTP。",
+      "作者说明为三周龄女婴睡眠呼吸实录，原片段约 17.6 秒。",
+      "保持原音高和速度，接缝做 100 ms 交叉淡化，循环延展为 5 分钟；首尾 0.5 秒淡入淡出。"
+    ]
   }
 ]
