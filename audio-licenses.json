@@ -346,5 +346,92 @@
       "decodedSamples": 1491168,
       "loopEndpointDelta": 0.003588
     }
+  },
+  {
+    "id": "shush",
+    "title": "轻柔嘘嘘声",
+    "category": "comfort",
+    "description": "轻声重复的嘘声，短片段循环播放",
+    "author": "sotanobi",
+    "originalTitle": "hush 1.mp3 by sotanobi",
+    "source": "https://freesound.org/people/sotanobi/sounds/700250/",
+    "downloadUrl": "https://cdn.freesound.org/previews/700/700250_9356705-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
+    "sourceDuration": 4.05,
+    "duration": 4.0,
+    "bytes": 64408,
+    "sha256": "67de1c3253adcb7fb7af34d154a3eeec03e4efcaf9a0200979da68312ef20188",
+    "file": "audio/shush-67de1c3253.mp3",
+    "downloadDate": "2026-10-03",
+    "modifications": [
+      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
+    ],
+    "quality": {
+      "peakAmplitude": 0.671711,
+      "rmsAmplitude": 0.032599,
+      "hasNaN": false,
+      "decodedSamples": 174947,
+      "loopEndpointDelta": 0.008413
+    }
+  },
+  {
+    "id": "heartbeat",
+    "title": "平稳心跳",
+    "category": "comfort",
+    "description": "每分钟 60 次的合成心跳节律",
+    "author": "loudernoises",
+    "originalTitle": "heartbeat-60bpm.wav by loudernoises",
+    "source": "https://freesound.org/people/loudernoises/sounds/332821/",
+    "downloadUrl": "https://cdn.freesound.org/previews/332/332821_5859881-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
+    "sourceDuration": 30.04,
+    "duration": 30.04,
+    "bytes": 481114,
+    "sha256": "5623e8e3dd7969a3dd89bb85c22a09d4424dbd884d557cdb1ec5795458522434",
+    "file": "audio/heartbeat-5623e8e3dd.mp3",
+    "downloadDate": "2026-10-03",
+    "modifications": [
+      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
+    ],
+    "quality": {
+      "peakAmplitude": 0.672655,
+      "rmsAmplitude": 0.09377,
+      "hasNaN": false,
+      "decodedSamples": 1323000,
+      "loopEndpointDelta": 6e-06
+    }
+  },
+  {
+    "id": "breathing",
+    "title": "缓慢呼吸",
+    "category": "comfort",
+    "description": "平缓的呼吸录音，含轻微环境底音",
+    "author": "helenavelikaja",
+    "originalTitle": "Slow Breathing Woman.wav by helenavelikaja",
+    "source": "https://freesound.org/people/helenavelikaja/sounds/485402/",
+    "downloadUrl": "https://cdn.freesound.org/previews/485/485402_1354123-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "acquisition": "Freesound 页面公开提供的高质量 MP3；与页面时长核对，不使用需要登录的原始文件下载接口。",
+    "sourceDuration": 83.93,
+    "duration": 83.93,
+    "bytes": 1343363,
+    "sha256": "acad8ef2b92f3cb727c3604296e1118a561caec606f154f01d488391472e500d",
+    "file": "audio/breathing-acad8ef2b9.mp3",
+    "downloadDate": "2026-10-03",
+    "modifications": [
+      "转为 44.1 kHz 单声道 MP3、128 kbps；统一至约 -24 LUFS，真峰值限制 -3 dBTP。"
+    ],
+    "quality": {
+      "peakAmplitude": 0.671457,
+      "rmsAmplitude": 0.07803,
+      "hasNaN": false,
+      "decodedSamples": 3699351,
+      "loopEndpointDelta": 2.1e-05
+    }
   }
 ]
